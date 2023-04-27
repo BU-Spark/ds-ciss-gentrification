@@ -13,8 +13,6 @@ This project aims to search article and news sources to identify the different c
 # ProQuest Workflow
 
 
-# TEMPLATE-base-repo
-
 # Add Users
 To add yourself to the repository, open a Pull Request modifying `COLLABORATORS`, entering your GitHub username in a newline.
 
